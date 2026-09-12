@@ -7,28 +7,16 @@ Passionate about turning raw data into meaningful insights. Currently focusing o
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python
 - **Data Science / Libraries:** Pandas, NumPy
+- **Core Concepts:** Data Cleaning, ETL Pipelines, Error Handling (`try-except`), File I/O
 - **Tools:** Git, GitHub, VS Code
 
 ---
 
 ### 📌 Featured Projects
+- **[Automated Student Performance Pipeline](#):** A fault-tolerant Python ETL script that cleans corrupted text data, computes scores with `lambda` logic, and generates audit reports.
 - **[Rent Calculator](#):** A Python-based utility to calculate and split rent and bills automatically.
 
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/saloni-savita-15178a320
-<!--
-**saloni-savita/saloni-savita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [saloni-savita](https://www.linkedin.com/in/saloni-savita-15178a320)
