@@ -13,8 +13,13 @@ Passionate about turning raw data into meaningful insights. Currently focusing o
 ---
 
 ### 📌 Featured Projects
+- **Smart Store Sales Analyzer**: A data analysis script built with NumPy that generates mock retail data, computes axis-wise totals, and calculates store revenue using array broadcasting.
+- 
 - **[Automated Student Performance Pipeline](#):** A fault-tolerant Python ETL script that cleans corrupted text data, computes scores with `lambda` logic, and generates audit reports.
+- 
 - **[Rent Calculator](#):** A Python-based utility to calculate and split rent and bills automatically.
+- 
+
 
 ---
 
