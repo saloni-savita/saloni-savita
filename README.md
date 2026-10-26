@@ -31,10 +31,8 @@ Passionate about turning raw data into meaningful insights and building efficien
 - Created an automated utility script to dynamically calculate individual shares for monthly rent and utility split calculations.
 
 ---
-
-### 📊 GitHub Stats
-![Saloni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloni-savita&show_icons=true&theme=radial)
-
+### 📊 GitHub Activity
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=saloni-savita&theme=dark)
 ---
 
 📫 **Connect with Me:** [LinkedIn](https://linkedin.com/in/saloni-savita) | [GitHub](https://github.com/saloni-savita)
